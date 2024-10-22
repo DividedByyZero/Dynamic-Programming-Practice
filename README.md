@@ -19,16 +19,6 @@ Here is the list of problems from the contest along with their corresponding sol
 | 9           | Problem 9 Name    | [Solution 9](./solutions/problem9.cpp) |
 | 10          | Problem 10 Name   | [Solution 10](./solutions/problem10.cpp) |
 
-## Folder Structure
 
-- `solutions/`: Contains the solution files for each problem.
-- `README.md`: This file provides an overview of the repository and links to each solution.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dp-practice.git
-cd dp-practice
-```
 You can view the contest and try solving the problems on VJudge: [Dynamic Programming Practice Contest](https://vjudge.net/contest/665926)
