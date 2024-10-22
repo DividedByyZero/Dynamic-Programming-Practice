@@ -8,7 +8,7 @@ Here is the list of problems from the contest along with their corresponding sol
 
 | Problem No. | Problem Name     | Solution Code                      |
 | ----------- | ---------------- | ---------------------------------- |
-| 1           | [A - The Tower of Babylon](https://vjudge.net/contest/665926#problem/A)    | [Solution 1](./A - The Tower of Babylon.cpp) |
+| 1           | [A - The Tower of Babylon](https://vjudge.net/contest/665926#problem/A)    | [Solution 1]([./A - The Tower of Babylon.cpp](https://github.com/DividedByyZero/Dynamic-Programming-Practice/blob/main/A%20-%20The%20Tower%20of%20Babylon.cpp)) |
 | 2           | Problem 2 Name    | [Solution 2](./solutions/problem2.cpp) |
 | 3           | Problem 3 Name    | [Solution 3](./solutions/problem3.cpp) |
 | 4           | Problem 4 Name    | [Solution 4](./solutions/problem4.cpp) |
