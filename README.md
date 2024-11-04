@@ -9,6 +9,7 @@ Here is the list of problems from the contest along with their corresponding sol
 | Problem No. | Problem Name     | Solution Code                      |
 | ----------- | ---------------- | ---------------------------------- |
 | 1           | [A - The Tower of Babylon](https://vjudge.net/contest/665926#problem/A)    | [Solution](./solutions/A.cpp) |
+| 2           | [B - Tour](https://vjudge.net/contest/665926#problem/B)    | [Solution](./solutions/B.cpp) |
 
 
 
